@@ -1,0 +1,39 @@
+html {
+    font-size: 20px;
+    font-family: 'Langar', cursive;
+    background-color: gray;
+}
+p:hover {
+    color: red;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    background-color: #CDFA19;
+    text-shadow: 5px 5px 2px rgb(15, 1, 92);
+}
+
+p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 60%;
+}
+
+body {
+    width: 800px;
+    margin: 0 auto;
+    background-color: #FF9500;
+    padding: 0px 20px 20px 20px;
+    border: 5px solid black;
+}
+
+/* button {
+    align;
+} */
